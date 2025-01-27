@@ -1,0 +1,49 @@
+h1{
+     background-color:red;
+     color: greenyellow;
+     text-align: center;
+}
+#box
+{
+    background-color: #ffbf00;
+    text-align: center;
+    text-transform: capitalize;
+     height :40px;
+    width:1500px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+body
+{
+    background-color: rgb(65, 230, 15)
+}
+header{
+
+text-align: center;
+text-transform: capitalize;
+height :40px;
+width:1500px;
+font-size: 40px;
+background-color: rgb(212, 225, 18);
+text-align: center;
+border: 2px solid black;
+
+}
+#hello{
+   background-color: aqua;
+   text-align: center;
+   height :140px;
+   padding: 30px;
+   font-size: 30px;
+   border: 2px solid black;
+}
+#ball
+{
+    background-color: #ffbf00;
+    text-align: center;
+    text-transform: capitalize;
+     height :40px;
+    width:1500px;
+    font-size: 30px;
+    border: 2px solid black;   
+}
